@@ -1,3 +1,0 @@
-<a href="index.php?module=Home&amp;action=index&amp;parenttab=My Home Page">My Home Page</a>
-
-xpath: //a[starts-with(@href,'index.php?module=')]
